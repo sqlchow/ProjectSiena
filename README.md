@@ -1,4 +1,1 @@
-ProjectSiena
-============
-
-All experiments with ProjectSiena will be stored here. The content is provided as is.
+ProjectSiena============All experiments with ProjectSiena will be stored here. The content is provided as is.The first experiment is a feed reader for theChive.com website. The rss feed is added as a data source and the galleries are dynamically populated with the images from the feed, based on their url.Note: some images on theChive may be naughty and could cause you to lose productivity :-)
